@@ -7,3 +7,5 @@ I'm a young 👨‍💻 aspiring developer. I love:
 - 🫂 - User-friendly UI
 - 💘 - When everything is updated on time
 - ✨ - And MD3 (Material Design 3) :)
+
+🛌Sleep 😋Eat 🛌Sleep 🤔Eat
