@@ -8,4 +8,4 @@ I'm a young 👨‍💻 aspiring developer. I love:
 - 💘 - When everything is updated on time
 - ✨ - And MD3 (Material Design 3) :)
 
-🛌Sleep 😋Eat 🛌Sleep 🤔Eat
+👨‍💻Code, 🛏️Sleep, 😋Eat, 🔁Repeat
