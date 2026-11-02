@@ -1,6 +1,5 @@
-👋 Hi all!<br>
+👋 Hi all! I'm a young 👨‍💻 aspiring developer. I love:
 <img align="right" width="40%" src="https://github-readme-stats.shion.dev/api?username=Ares50800&show_icons=true&theme=transparent&hide_rank=true" />
-I'm a young 👨‍💻 aspiring developer. I love:
 - 🌱 - Open-source projects
 - 🪟 - Transparency
 - 🔐 - Reliability
